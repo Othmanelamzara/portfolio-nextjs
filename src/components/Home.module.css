@@ -1,0 +1,43 @@
+.home {
+  text-align: center;
+}
+
+.home img {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-bottom: 20px;
+}
+
+.section {
+  margin-bottom: 20px;
+}
+
+.section h2 {
+  font-size: 1.5rem;
+  margin-bottom: 10px;
+}
+
+.section ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.section ul li {
+  margin-bottom: 10px;
+}
+
+.experience, .project {
+  text-align: left;
+  margin-bottom: 20px;
+}
+
+.experience h3, .project h3 {
+  font-size: 1.25rem;
+  margin-bottom: 5px;
+}
+
+.experience p, .project p {
+  margin-bottom: 10px;
+}

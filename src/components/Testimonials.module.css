@@ -1,0 +1,19 @@
+.testimonials-page {
+  padding: 20px;
+}
+
+.testimonials-list {
+  margin: 20px 0;
+}
+
+.testimonial {
+  background-color: white;
+  padding: 15px;
+  margin-bottom: 20px;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.testimonial h3 {
+  margin: 0 0 10px 0;
+}

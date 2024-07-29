@@ -1,0 +1,32 @@
+.contactPage {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 1rem;
+}
+
+.successMessage {
+  color: green;
+  margin-bottom: 1rem;
+}
+
+.formGroup {
+  margin-bottom: 1rem;
+}
+
+.formGroup label {
+  display: block;
+  margin-bottom: 0.5rem;
+}
+
+.formGroup input,
+.formGroup textarea {
+  width: 100%;
+  padding: 0.5rem;
+  box-sizing: border-box;
+}
+
+.formGroup .error {
+  color: red;
+  font-size: 0.875rem;
+  margin-top: 0.5rem;
+}
